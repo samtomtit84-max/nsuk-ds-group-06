@@ -1,0 +1,21 @@
+# Python environment and caches
+.venv/
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Your private practice notebooks (never uploaded)
+notebooks/scratch/*
+!notebooks/scratch/.gitkeep
+
+# NOTE: data/processed/ and models/ are NOT ignored in this project,
+# because the Streamlit app needs them (also on Streamlit Community Cloud).
+
+# Secrets
+.env
+.streamlit/secrets.toml
+
+# Editor / OS clutter
+.DS_Store
+Thumbs.db
