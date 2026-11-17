@@ -11,7 +11,7 @@ cleaning code for LGAs, Yes/No and months; wrote report section 2; fixed the mer
 | 1 | | @ | Coordinator + Data lead (Parts 1–2) | |
 | 2 | | @ | Visualisation lead (Parts 3 and 7) | |
 | 3 | | @ | Statistics lead (Parts 4–5) | |
-| 4 | | @ | Machine-learning lead (Part 6) | |
+| 4 | Olajimbiti Praise Iyanuoluwa| @praise-mimi | Machine-learning lead (Part 6) | |
 | 5 | | @ | App lead (Parts 8–9) | |
 
 ## Meeting log *(optional, but helps if there are disagreements later)*
