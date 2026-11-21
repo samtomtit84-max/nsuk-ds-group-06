@@ -10,7 +10,7 @@ cleaning code for LGAs, Yes/No and months; wrote report section 2; fixed the mer
 |---|---|---|---|---|
 | 1 | | @ | Coordinator + Data lead (Parts 1–2) | |
 | 2 | Ali David Gaga | @aligaga219-dot | Visualisation lead (Parts 3 and 7) | Commiting my name to to respository |
-| 3 | TITUS SAMUEL TOMMY | @samtomtit84@gmail.com | Statistics lead (Parts 4–5) | committing my name to the repository |
+| 3 | TITUS SAMUEL TOMMY | @samtomtit84-max | Statistics lead (Parts 4–5) | committing my name to the repository |
 | 4 | Olajimbiti Praise Iyanuoluwa| @praise-mimi | Machine-learning lead (Part 6) | |
 | 5 | | @ | App lead (Parts 8–9) | |
 
