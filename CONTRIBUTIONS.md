@@ -8,10 +8,10 @@ cleaning code for LGAs, Yes/No and months; wrote report section 2; fixed the mer
 
 | # | Name | GitHub username | Role | What I did |
 |---|---|---|---|---|
-| 1 | Kwembe Prince Aondover | @princekwembe | Coordinator + Data lead (Parts 1–2) | Committing my name |
-| 2 | Ali David Gaga | @aligaga219-dot | Visualisation lead (Parts 3 and 7) | Commiting my name to to respository |
-| 3 | TITUS SAMUEL TOMMY | @samtomtit84-max | Statistics lead (Parts 4–5) | committing my name to the repository |
-| 4 | Olajimbiti Praise Iyanuoluwa| @praise-mimi | Machine-learning lead (Part 6) | |
+| 1 |Olajimbiti Praise Iyanuoluwa | @praise-mimi | Coordinator + Data lead (Parts 1–2) | Coordinated the group and handled data inspection, cleaning and standardisation.|
+| 2 | | @ | Visualisation lead (Parts 3 and 7) | |
+| 3 | | @ | Statistics lead (Parts 4–5) | |
+| 4 | | @| Machine-learning lead (Part 6) | |
 | 5 | | @ | App lead (Parts 8–9) | |
 
 ## Meeting log *(optional, but helps if there are disagreements later)*
